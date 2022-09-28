@@ -1,6 +1,6 @@
-#normalizar esoacios de una cadena
+#normalizar espacios de una cadena
 
-cadena=input('¿Cual es la cadena?')
+cadena=input('¿Cual no es la cadena?')
 cadena_nueva=''
 anterior=' '
 for caracter in cadena:
